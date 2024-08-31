@@ -1,1 +1,1 @@
-# MAnually created readme file
+# Manually created readme file
